@@ -3,8 +3,10 @@
 # Running installation selenium on vscode terminal
 python -m pip install selenium
 
-# Running automation on terminal
-python register.py
+# Running automation register on terminal
+python register.py 
+
+# Running automation login on terminal
 python login.py
 
 # success on register.py
